@@ -8,6 +8,7 @@
 - Tạo giao diện
 - Kết nối db qua entity framwork code first
 - load data lên datagrid view
+
 ![alt text](https://github.com/AnhVuNguyenNgoc/QuanLySim3G-Winform-EntityFramework/blob/master/QuanLySim3G/img/HopDongDangKySim.png)
 
   
